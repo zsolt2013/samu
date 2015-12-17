@@ -5,10 +5,10 @@
  * @author  Norbert Bátfai <nbatfai@gmail.com>
  * @version 0.0.1
  *
- * Samu Java Version : Zsolt Akai <javainternational53@gmail.com>
- *
- *
  * @section LICENSE
+ *
+ *
+ * Samu Java Version : Zsolt Akai <javainternational53@gmail.com>
  *
  * Copyright (C) 2015 Norbert Bátfai, batfai.norbert@inf.unideb.hu
  *
